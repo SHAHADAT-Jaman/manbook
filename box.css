@@ -1,0 +1,28 @@
+ p {
+     background-color: #be8888;
+     padding: 50px;
+     margin: 50px;
+     display: inline-block;
+}
+h2{
+     background-color: #d8efc1;
+     display: inline-block;
+     padding: 70px;
+}
+span, button{
+     background-color: #66daaf;
+     margin: 100px 0;
+     padding: 50px;
+     display: inline-block;
+
+}
+a{
+     background-color: #8e8db5;
+     padding: 40px;
+     margin: 10px 100px;
+     display: inline-block;
+}
+.sky{
+     background-color: #bdb691;
+     padding: 100px;
+}

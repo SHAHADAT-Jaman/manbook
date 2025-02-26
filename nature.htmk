@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Document HTML</title>
+</head>
+<body>
+     <main>
+          <section>
+               <h2>Welcome to Nature's Blog</h2>
+               <div>
+                    <h2>let's talk about nature</h2>
+                    <img 
+                    src="assets/image/rokeya2.jpg" 
+                    alt="flower">
+               </div>
+          </section>
+     </main>
+</body>
+</html>
